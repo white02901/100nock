@@ -10,7 +10,7 @@ twitter_card = """
     <meta name="twitter:site" content="@chokkanorg">
     <meta name="twitter:title" content="言語処理100本ノック">
     <meta name="twitter:description" content="言語処理100本ノックは、実用的でワクワクするような課題に取り組みながら、自然言語処理、大規模言語モデル、プログラミング、研究のスキルを楽しく習得することを目指した問題集です。">
-    <meta name="twitter:image" content="https://chokkan.github.io/mlnote/_static/mlnote.png">
+    <meta name="twitter:image" content="https://nlp100.github.io/2025/_images/nlp100-2025-ja.jpg">
     </head>
 """
 
