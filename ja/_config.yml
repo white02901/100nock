@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: NLP100本ノック 2025
+title: 言語処理100本ノック 2025
 author: 
 copyright: |
   2012-2025 by 岡崎 直観 (Naoaki Okazaki), クリエイティブ・コモンズ 表示 4.0 国際 (CC BY 4.0)"
@@ -17,6 +17,13 @@ latex:
   latex_documents:
     targetname: book.tex
 
+parse:
+  myst_html_meta:
+    twitter\:card": "summary"
+    twitter\:site: "@chokkanorg"
+    twitter\:title: "言語処理100本ノック"
+    twitter\:description: "言語処理100本ノックは、実用的でワクワクするような課題に取り組みながら、自然言語処理、大規模言語モデル、プログラミング、研究のスキルを楽しく習得することを目指した問題集です。"
+    twitter\:image: "https://chokkan.github.io/mlnote/_static/mlnote.png"
 # Add a bibtex file so that we can create citations
 # bibtex_bibfiles:
 #  - references.bib
