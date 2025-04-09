@@ -4,7 +4,6 @@
 format: jb-book
 root: ja/index
 chapters:
-# - file: ja/prepare
 - file: ja/ch01
 - file: ja/ch02
 - file: ja/ch03
@@ -15,4 +14,5 @@ chapters:
 - file: ja/ch08
 - file: ja/ch09
 - file: ja/ch10
+- file: ja/prepare
 - file: ja/about
